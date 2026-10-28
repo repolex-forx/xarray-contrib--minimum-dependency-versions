@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/xarray-contrib/minimum-dependency-versions/commit/300e3abc7e76337827a38961dbccc9ad5f41892b",
       "git:hexsha": "300e3abc7e76337827a38961dbccc9ad5f41892b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/xarray-contrib/minimum-dependency-versions/commit/af493cb84f163e4a1634d564be9cae2a3e7b9fca",
